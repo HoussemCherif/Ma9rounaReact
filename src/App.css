@@ -1,0 +1,39 @@
+.programs
+{
+ font-size: 10px;   
+    display: flex;
+    flex-direction: row;
+    
+    margin: 20px;
+    padding: 10px; 
+}
+
+.programme{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+.button{
+    background-color: white;
+  color: black;
+  border: 2px solid red;
+}
+
+.chiffre{
+    font-size: 15px;
+color :white;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 100px;
+    background: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/5ywk0LA/network-connection-cloud-loop-8a-gunmetal-grey-background-rotating-blue-orange-pink-light-mesh-cloud-with-white-dots-and-lines-with-depth-of-field-effect-fullhd-and-seamlessly-loopable_rnwchfbnl_thumbnail-full12.png');
+   
+}
+.images{
+        
+    
+font-size: 10px;   
+    display: flex;
+    padding: 10px;
+}
+
